@@ -1,3 +1,4 @@
+![bulls-and-cows-genesis-demo](https://github.com/awesomesk1ll/bulls-and-cows-genesis/blob/master/demo.png)
 # Консольная node.js игра Быки и Коровы (russian)
 1. Установить
 `npm install`
